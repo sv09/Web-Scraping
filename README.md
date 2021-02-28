@@ -1,4 +1,4 @@
-#WEB SCRAPING
+# WEB SCRAPING
 
 * Scraped web pages using BeautifulSoup4 library
 * Topic: List of Dishes (from all the possible relevant links)
